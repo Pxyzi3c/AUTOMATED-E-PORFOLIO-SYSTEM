@@ -1,0 +1,391 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FinalProj_AutomatedEPortfolioSystem_Group5
+</name>
+</assembly>
+<members>
+<member name="T:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.btnInstruc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.btnLogin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.btnLogin1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.btnLoginButton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgAchievements">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgAchievementsTitle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgArrowback">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgArrowbackColored">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgCertifications">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgCertificationsTitle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgContacts">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgContactsTitle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgEditIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgEditIcon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgEduIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgExperiences">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgExperiencesTitle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgExtracur">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgExtracurricularTitle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgGrades">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgGradesTitle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgGraphic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgGraphic1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgHeader">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgHeader2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgIconClose">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgIconMin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgLogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgLogo2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgLogoholder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgLogoo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgLogoo2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgLogoo3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgLogout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgNavAchievements">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgNavCertifications">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgNavContacts">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgNavExperiences">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgNavExtracur">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgNavGrades">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgNavProfile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgNavProjects">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgNavResume">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgNavSeminars">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgNavSkills">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgNavTodoList">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgPicHolder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgPicHolder1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgPrintIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgPrintIcon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgProfile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgProfileTitle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgProjects">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgProjectsTitle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgRegBG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgResume">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgResumeSizingReference">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgResumeTitle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgSamplepic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgSampleResume">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgSeminars">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgSeminarsTitle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgSideprofilebg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgSkills">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgSkillsIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgSkillsTitle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgTodo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgTodoList">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgUnlockPass">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.imgWorkIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.picGreetings">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.txtCreds">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FinalProj_AutomatedEPortfolioSystem_Group5.My.Resources.Resources.Vector">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
